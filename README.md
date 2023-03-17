@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center"> 
- Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="https://github.com/FantoX001">FantoX</a> and his team "Atlas" to do everything that's beyond imagination with highest features and stability built with Baileys Multi Device support.
+<b>Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="https://github.com/FantoX001">FantoX</a> and his team "Atlas" to do everything that's beyond imagination with highest <b>Features</b> and <b>Stability</b> and <b>Compatibility</b> built with Baileys Multi Device support.
 
 <h3 align="center"> Atlas MD - The Future Is Here
 </h4>
@@ -30,6 +30,41 @@
   </a>
   <br><br>
   
+<p align="center">
+<a href="https://github.com/FantoX001"><img title="Author" src="https://img.shields.io/badge/Author-Team Atlas-orange.svg?style=for-the-badge&logo=github"></a>
+
+ <a href="https://github.com/FantoX001/Atlas-MD/blob/main/LICENSE.md">
+  
+<img src='https://img.shields.io/github/license/FantoX001/Atlas-MD?color=%231e81b0&style=for-the-badge'>
+
+<p align="center">
+<a href="https://github.com/FantoX001"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-YES-purple.svg?style=for-the-badge"></a>
+<a href="https://github.com/FantoX001"><img title="" src="https://img.shields.io/badge/Maintained-Of Course-green.svg?style=for-the-badge"></a>
+</p>
+<br>
+
+---
+ <br>
+ 
+<h4 align="center"> Deploy on Repl.it - ( YouTube Tutorial Included & Highly Recommended )
+</h4>
+
+<p align="center" >
+    <a href="https://repl.it/github/FantoX001/Atlas-MD">
+    <img src="https://i.ibb.co/zrB5kMh/deploy-on-repl.jpg" width="170px" alt="Deploy on Heroku" >
+    </a>
+    <br>     
+    <a href="https://youtu.be/R-_DU73UH8Q"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
+    </a>
+</p>
+
+<p align="center" >
+    <br>
+    __________________________
+    <br>
+</p>   
+      
+      
       
 <h4 align="center"> Deploy on Railway - ( YouTube Tutorial Included )
 </h4>
@@ -81,34 +116,47 @@
     <a href="https://heroku.com/deploy?template=https://github.com/FantoX001/Atlas-MD">
     <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
     </a>
+
+https://youtu.be/R-_DU73UH8Q
 </p> -->
 
-
-<h4 align="center"> Deploy on Repl.it - ( YouTube Tutorial Coming Today )
-</h4>
-
-<p align="center" >
-    <a href="https://repl.it/github/FantoX001/Atlas-MD">
-    <img src="https://i.ibb.co/zrB5kMh/deploy-on-repl.jpg" width="170px" alt="Deploy on Heroku" >
-    </a>
-</p>
-
-<p align="center" >
-    <br>
-    __________________________
-    <br>
-</p>
 
 
 
 <br>
-<h4 align="center"> Facing Trouble? Join my WhatsApp Group fro any Support
+<h4 align="center"> Facing Trouble? Join my WhatsApp Group for Support.
 </h4>
 
 <p align="center" >
 <a href="https://chat.whatsapp.com/D4EsvpDVGJT8WbxJVlSwWn"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="140px">
 </a>
 </p>
+<br>
+      
+---
+<br>
+
+<h2 align="center">⚡️ Atlas MD Platform Compatibility ⚡️
+</h2>
+
+- Atlas offers highest platform compatibility.
+- Just deploy and use on your favourite platform.
+- More Platform comaptibility coming soon...
+<br>
+
+      
+|    Platform      | :white_check_mark: Pros          |:x: Cons  |
+| ----------- | ------------------ |-------|
+| <b>Repl.it<b>   | - <b><i>Fastest Deloy.<br> - Faster than Railway / Koyeb. <br> - 24*7 work. <br> - No Crash and auto reboot.<br> - 100% Commands work.<b><i> | <b><i> - No Cons. Just Deploy and Have fun.<b><i>
+| <b>Railway<b>    | - <b><i>Fast Deloy.<br> - Faster than Koyeb. <br> - 24*7 work. <br> - Auto Reboot on Crash.<br> - 100% Commands work.<b><i>    | <b><i> - Requires a 6 months old GitHub Account to verify.<br> - 500 hours per month usage.<br> - Crashing Due to 500 mb limited RAM. <br> - Not suitable for newly joined users.<b><i>
+| <b>Koyeb<b>   | - <b><i>24*7 work. <br> - Less Crash and auto reboot.<br> - 100% Commands work<b><i> | <b><i> - Now Credit Card required to create account.<br> - Slowest deploy ( Takes Upto 7-8 minutes ).<br> - Slowest work compared to Repl.it / Railway.<br> - Not suitable for newly joined users.<b><i>
+| <b>UserLand<b>   | <b><i>No Pros to mention, Only 100% Commands work.<b><i> | <b><i> - Very hard Installation process.<br> - Time consuming deploy process (upto >30 minutes).<br> - Speed depend on your internet.<br> - Will consume too much data.<br> - Nightmare for Beginners.<br> - Prone to error if steps are not followed correctly.<br><b><i>
+| <b>Heroku ( Not Compatible )<b> | :x: |:x:|
+| <b>Termux ( Useless for all Bots)<b> | :x: |:x:|
+
+<br><br>
+
+---
 <br>
 
 <h2 align="center">🎀 Key Features 🎀
@@ -117,7 +165,7 @@
 <br>
 
 - Read [PublicKeys.md](https://github.com/FantoX001/Atlas-MD/blob/main/PublicKeys.md) to use our `provided public keys` if you are lazy to create your own. We have already provided everying you need to run the bot.
-- Changeable between `8 added Characters` ( Atlas, Power, Makima, Denji, Zero Two, Chika, Miku, Marin Kitagawa ) and more can be added by user inside `BotCharacters.js` file. Type `-charlist` command to get character list.
+- Changeable between `20 added Characters` ( Atlas, Power, Makima, Denji, Zero Two, Chika, Miku, Marin Kitagawa ) and more can be added by user inside `BotCharacters.js` file. Type `-charlist` command to get character list.
 - Fully powered by MongoDb ( 3 databases added ).
 - Self / Public / Private mode.
 - Single prefix ( "-" ).
@@ -161,10 +209,13 @@
 
 <br>
 
-<h2 align="center">🧩 UserLand Deployment Method ( Android no root ) 🧩
+---
+<br>
+
+<h2 align="center">🧩 UserLand Deployment Method ( Not Recommented!) 🧩
 </h2>
 
-#### ⚜️ Download `UserLand` application from Google Play Store.
+#### ⚜️ Download `UserLand` application old version ( 3.1.2 ) from [Here](https://m.apkpure.com/userland-linux-on-android/tech.ula/variant/3.1.2-APK).
 #### ⚜️ Install `Debian` terminal in userland.
 #### ⚜️ Rename `.env.example` to `.env` and fill in the required details in `.env` file and `config.js` (Mandatory).
 
@@ -238,6 +289,8 @@ npm start
 #### ⚜️ Note as UserLand is a physical server so you must keep on your internet connection active to make sure bot works. Otherwise bot will be down.
 <br><br>
 
+---
+<br>
 
 <h2 align="center">🧩 CMD / VS Code / Powershell / Terminal Deployment Method 🧩
 </h2>
@@ -261,6 +314,9 @@ npm start
 
 Note: If you don't pre-install these plugins before CMD / VS code Installation bot will not start!
 </br> 
+
+---
+<br>
 
 <h2 align="center">🧣 Contributors 🧣
 </h2>
@@ -292,7 +348,8 @@ Note: If you don't pre-install these plugins before CMD / VS code Installation b
 
 <br>
 
-
+---
+<br>
 
 <h2 align="center">🔰 Meet Team Atlas 🔰
 </h2>

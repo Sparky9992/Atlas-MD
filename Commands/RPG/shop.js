@@ -1,11 +1,6 @@
-const mongoose = require("mongoose");
-require("../../config.js");
-require("../../Core.js");
-const { player } = require("../../Database/rpgschema.js");
+const config = require('../../config');
 const eco = require('discord-mongoose-economy')
-const ty = eco.connect('mongodb+srv://fantox001:zjmbvgwr52@cluster0.qh05pl9.mongodb.net/?retryWrites=true&w=majority');
-const fs = require("fs");
-
+const ty = eco.connect(config.mongodb);
 
 module.exports = {
     name: "shop",

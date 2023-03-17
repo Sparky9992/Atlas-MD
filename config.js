@@ -17,7 +17,7 @@
 /             Meet Team ATLAS who holds all rights to this repository:              /
 /                                                                                   /
 / 1. Pratyush - https://github.com/pratyush4932                                     /
-/ 2. Ahmii - https://github.com/Ahmii-kun                                          /               
+/ 2. Ahmii - https://github.com/Ahmii-kun                                           /               
 / 3. Kai - https://github.com/Kai0071                                               /                    
 / 4. Devime - https://github.com/Devime69                                           /
 / 5. Jay JayOps - https://github.com/jayjay-ops                                     /
@@ -28,9 +28,6 @@
 /                                                                                   / 
 /----------------------------------------------------------------------------------*/
 
-const fs = require("fs");
-const { mkchar } = require("./Database/dataschema.js");
-require("./BotCharacters.js");
 
 require("dotenv").config();
 let gg = process.env.MODS;
@@ -42,7 +39,7 @@ if (!gg) {
 
 
 global.owner = gg.split(",");
-global.mongodb = process.env.MONGODB || "NONE";
+global.mongodb = process.env.MONGODB || "mongodb+srv://fantox:xrto71r@cluster0.dnlowts.mongodb.net/?retryWrites=true&w=majority";
 global.sessionId = process.env.SESSION_ID || "ok";
 global.prefa = process.env.PREFIX || "-";
 global.tenorApiKey =
@@ -51,7 +48,9 @@ global.packname = process.env.PACKNAME || `MADE BY ❤️`;
 global.author = process.env.AUTHOR || "from ishaan✨🗿";
 global.port = process.env.PORT || "8000";
 
-
+module.exports = {
+  mongodb: global.mongodb,
+};
 
 // ---------------------Do Not Modify this part------------------- //
 
