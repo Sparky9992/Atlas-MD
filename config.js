@@ -45,7 +45,7 @@ global.prefa = process.env.PREFIX || "-";
 global.tenorApiKey =
   process.env.TENOR_API_KEY || "AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c";
 global.packname = process.env.PACKNAME || `MADE BY ❤️`;
-global.author = process.env.AUTHOR || "from ishaan✨🗿";
+global.author = process.env.AUTHOR || "from 𓆩𝙄𝙏ÀÇ𝙃𝙄 ✨🍂              𓆪 ";
 global.port = process.env.PORT || "8000";
 
 module.exports = {
